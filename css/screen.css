@@ -263,7 +263,7 @@ PLECA DE COLOR
 .social {
   float: right;
   height: 60px;
-  width: 250px;
+  width: 305px;
 }
 @media screen and (max-width: 870px) {
   .social {
@@ -283,7 +283,7 @@ PLECA DE COLOR
   transition: all 0.3s ease-in-out;
   height: 60px;
   position: absolute;
-  width: 125px;
+  width: 153px;
 }
 .facebook:hover .cover,
 .twitter:hover .cover {
@@ -304,7 +304,7 @@ PLECA DE COLOR
   background: url("../images/twitter-icon.png") no-repeat scroll center #d7d7d7;
 }
 .twitter iframe {
-  margin: 20px 0 0 10px;
+  margin: 20px 0 0 40px;
   width: 86px !important;
 }
 
